@@ -14,3 +14,11 @@ haxelib install lime 8.0.1
 haxelib install hxcpp 4.2.1
 haxelib install hscript 2.5.0
 ```
+### Final
+```sh
+  haxelib run lime test windows
+```
+or
+```sh
+  haxelib run lime test html5
+```
