@@ -2,7 +2,7 @@
 
 
 ## Build
-### Need
+### Need (skip this if you already have compiled any fnf project, or any flixel project basically lol)
 - Haxe 4.2.5
 - Visual Studio 2019 (maybe)
 - ### Haxelib
