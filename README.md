@@ -13,6 +13,7 @@ haxelib install flixel-ui 2.4.0
 haxelib install lime 8.0.1
 haxelib install hxcpp 4.2.1
 haxelib install hscript 2.5.0
+haxelib install openfl 9.2.1
 ```
 ### Final
 ```sh
