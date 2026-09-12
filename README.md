@@ -23,7 +23,8 @@ or
 ```sh
   haxelib run lime test html5
 ```
-##Credits
--AprCat/qiuguoGg(Main Coder)
--StarMing/IamStar(Code help,Co-Main Coder)
--TheLine/LineX(Code Help)
+
+## Credits
+- AprCat/qiuguoGg(Main Coder)
+- StarMing/IamStar(Code help,Co-Main Coder)
+- TheLine/LineX(Code Help)
